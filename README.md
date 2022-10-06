@@ -1,7 +1,7 @@
 [![MasterHead](https://media-exp1.licdn.com/dms/imag...)]
 <h1 align="center">Hi 👨‍💻, I'm Sakib Hossain</h1>
 <h3 align="center">A data geek who enjoys going beyond the visible</h3>
-<img align="right" alt="Coding" width="400" src="https://wifflegif.com/gifs/572471-creative-coding-perfect-loop-gif"> 
+<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/5403918-Focus"> 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sakib-007" alt="sakib-007" /></a> </p>
 
