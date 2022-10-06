@@ -1,9 +1,14 @@
-[![MasterHead](https://media-exp1.licdn.com/dms/imag...)]
+[![MasterHead](https://wifflegif.com/gifs/572471-creative-coding-perfect-loop-gif)]
 <h1 align="center">Hi 👨‍💻, I'm Sakib Hossain</h1>
 <h3 align="center">A data geek who enjoys going beyond the visible</h3>
-<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/5403918-Focus"> 
-
+<img align="right" alt="Coding" width="400" src="![image](https://user-images.githubusercontent.com/53007908/194286379-db4bdc0f-5dd9-4a6a-b008-4af4ea1e4652.png)">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sakib-007" alt="sakib-007" /></a> </p>
+
+- 🌱 I’m currently learning **Apache Airflow**
+
+- 💬 Ask me about **SQL, Data Warehouse, ETL, API**
+
+- 📫 How to reach me **sakibhossainsadi90@gmail.com**
 
 - ⚡ Fun fact **At our current rate, 2.5 quintillion bytes of data are produced every day.**
 
