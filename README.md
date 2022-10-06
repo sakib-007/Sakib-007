@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👨‍💻, I'm Sakib Hossain</h1>
 <h3 align="center">A data geek who enjoys going beyond the visible</h3>
-<img align="right" alt="Coding" width="300" src="https://github.com/sakib-007/Sakib-007/blob/main/a85c0dcdcc774c6f340b07518363d6fb.gif">
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sakib-007" alt="sakib-007" /></a> </p>
 
 - 🌱 I’m currently learning **Apache Airflow**
